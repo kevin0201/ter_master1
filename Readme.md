@@ -2,4 +2,4 @@
 
 # Thème : Arbres recombinants pour l'évaluation des produits de taux.
 
-# Effectué avec un binome
+# Effectué avec un binôme
